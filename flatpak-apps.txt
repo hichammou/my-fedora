@@ -1,0 +1,9 @@
+com.anydesk.Anydesk
+com.discordapp.Discord
+com.getpostman.Postman
+com.mattjakeman.ExtensionManager
+com.mongodb.Compass
+com.notesnook.Notesnook
+com.spotify.Client
+io.github.JakubMelka.Pdf4qt
+org.mozilla.Thunderbird
